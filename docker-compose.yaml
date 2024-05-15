@@ -6,4 +6,4 @@ services:
       - "8080:8080"
     volumes:
       - "/mnt/wars:/usr/local/tomcat/webapps"
-     just for test/delete later
+     
